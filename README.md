@@ -11,5 +11,8 @@ new Date(2020, 1).toUTCString();
 ```
 
 # Notes
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aizatto/cookies.svg)](https://greenkeeper.io/)
+
 - https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
 - https://www.w3schools.com/js/js_cookies.asp
